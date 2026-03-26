@@ -21,8 +21,8 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: VertexPaint
-  m_Shader: {fileID: -6465566751694194690, guid: 99f018c81989d5f42bff3d0e17bb9a57, type: 3}
-  m_Parent: {fileID: -876546973899608171, guid: 99f018c81989d5f42bff3d0e17bb9a57, type: 3}
+  m_Shader: {fileID: -6465566751694194690, guid: 855549fec80641e4ea8052730d4bd07d, type: 3}
+  m_Parent: {fileID: -876546973899608171, guid: 855549fec80641e4ea8052730d4bd07d, type: 3}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
   m_InvalidKeywords: []
@@ -31,7 +31,8 @@ Material:
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
-  disabledShaderPasses: []
+  disabledShaderPasses:
+  - MOTIONVECTORS
   m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
@@ -62,7 +63,9 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _NoiseScale: 0.84
+    - _BlendDistance: 0.01
+    - _NoiseScale: 0.85
+    - _QueueControl: 0
     - _UV_Scale: 0.2
     m_Colors: []
   m_BuildTextureStacks: []
