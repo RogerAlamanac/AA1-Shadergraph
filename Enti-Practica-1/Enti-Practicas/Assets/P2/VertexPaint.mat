@@ -64,13 +64,13 @@ Material:
     m_Ints: []
     m_Floats:
     - _BlendDistance: 0.6
-    - _NoiseScale: 0.94
+    - _NoiseScale: 1.37
     - _QueueControl: 0
     - _SnowAO: 0
     - _SnowMetallic: 0
-    - _SnowSmoothness: 0.05
+    - _SnowSmoothness: 38.06
     - _UV_Scale: 0.2
-    - _VertexDisplacement: 3.64
+    - _VertexDisplacement: 2
     - _VerticalDisplacement: 3.29
     m_Colors: []
   m_BuildTextureStacks: []
