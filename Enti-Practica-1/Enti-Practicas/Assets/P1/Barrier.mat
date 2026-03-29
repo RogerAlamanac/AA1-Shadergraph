@@ -26,23 +26,12 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
-    - _QueueControl: 0
-    m_Floats:
-    - _DepthDetectionContrast: 5
-    - _DepthDetectionDistance: 4
-    - _DepthDetectionInteriorIntensity: 0.4
-    - _EdgeBorderOpacityContrast: 5
-    - _EdgeBorderOpacityIntensity: 1
-    - _EdgeCenterOpacityContrast: 2
-    - _EdgeIntensity: 20
-    - _EdgePower: 3.58
-    - _FadeDistance: 70
-    - _HexLineWidth: 0.08
-    - _HexSoftness: 0.12
+    - _DepthDetectionContrast: 4
+    - _DepthDetectionDistance: 5
+    - _EdgeIntensity: 30.61
+    - _EdgePower: 4
     - _HexStrength: 2
-    - _InteriorIntensity: 0.2
     - _QueueControl: 0
-    - _TimeSpeed: 1
     m_Colors:
     - _Color: {r: 0, g: 0.9219923, b: 1, a: 1}
     - _UV: {r: 30, g: 20, b: 0, a: 0}
