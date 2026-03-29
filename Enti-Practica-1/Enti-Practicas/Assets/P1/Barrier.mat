@@ -32,13 +32,18 @@ Material:
     - _EdgeBorderOpacityContrast: 5
     - _EdgeBorderOpacityIntensity: 1
     - _EdgeCenterOpacityContrast: 2
-    - _EdgeIntensity: 12.59
+    - _EdgeIntensity: 20
+    - _EdgePower: 3.58
+    - _FadeDistance: 70
+    - _HexLineWidth: 0.08
+    - _HexSoftness: 0.12
     - _HexStrength: 2
     - _InteriorIntensity: 0.2
     - _QueueControl: 0
     - _TimeSpeed: 1
     m_Colors:
     - _Color: {r: 0, g: 0.9219923, b: 1, a: 1}
+    - _UV: {r: 30, g: 20, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1
 --- !u!114 &1908181819145562811
