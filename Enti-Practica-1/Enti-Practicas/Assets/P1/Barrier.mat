@@ -26,7 +26,17 @@ Material:
     m_TexEnvs: []
     m_Ints: []
     m_Floats:
+    - _DepthDetectionContrast: 5
+    - _DepthDetectionDistance: 4
+    - _DepthDetectionInteriorIntensity: 0.4
+    - _EdgeBorderOpacityContrast: 5
+    - _EdgeBorderOpacityIntensity: 1
+    - _EdgeCenterOpacityContrast: 2
+    - _EdgeIntensity: 12.59
+    - _HexStrength: 2
+    - _InteriorIntensity: 0.2
     - _QueueControl: 0
+    - _TimeSpeed: 1
     m_Colors:
     - _Color: {r: 0, g: 0.9219923, b: 1, a: 1}
   m_BuildTextureStacks: []
