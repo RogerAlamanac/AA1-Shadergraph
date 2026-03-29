@@ -28,6 +28,7 @@ Material:
     m_Floats:
     - _DepthDetectionContrast: 4
     - _DepthDetectionDistance: 5
+    - _EdgeDistance: 0.07
     - _EdgeIntensity: 30.61
     - _EdgePower: 4
     - _HexStrength: 2
